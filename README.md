@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9c657a16-1feb-4770-a95d-042eb27a35b5)
+![Altea](https://github.com/user-attachments/assets/deaae09b-ef11-4e9c-b111-605aa8c7293c)
 
 ![Web and App Developer](https://i.imghippo.com/files/VZUvC1721474892.jpg)
 
