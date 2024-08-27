@@ -1,5 +1,8 @@
-![Altea](https://github.com/user-attachments/assets/deaae09b-ef11-4e9c-b111-605aa8c7293c)
 
+<video width="320" height="240" controls autoplay>
+  <source src="https://github.com/user-attachments/assets/43da93e9-a1f3-4742-aef6-7fc37d700d10" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ![Web and App Developer](https://i.imghippo.com/files/VZUvC1721474892.jpg)
 
 ## Hi, I'm Altea Kapxhiu!
