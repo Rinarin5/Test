@@ -1,9 +1,4 @@
-
-<video width="320" height="240" controls autoplay>
-  <source src="https://github.com/user-attachments/assets/43da93e9-a1f3-4742-aef6-7fc37d700d10" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-![Web and App Developer](https://i.imghippo.com/files/VZUvC1721474892.jpg)
+[Watch the video](https://github.com/user-attachments/assets/43da93e9-a1f3-4742-aef6-7fc37d700d10)
 
 ## Hi, I'm Altea Kapxhiu!
 I'm a Computer Science student with a passion for web and app development. Proficient in languages such as JavaScript, Python, and Java, and experienced with frameworks like React and Django. Skilled in building user-friendly, responsive websites using HTML, CSS, and React as well as mobile applications using tools like React Native and Android Studio. Adept at problem-solving and constantly seeking to learn and innovate in the tech industry.
