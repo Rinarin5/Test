@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/43da93e9-a1f3-4742-aef6-7fc37d700d10
+
 ![Web and App Developer](https://i.imghippo.com/files/VZUvC1721474892.jpg)
 
 ## Hi, I'm Altea Kapxhiu!
